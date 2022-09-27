@@ -6,4 +6,4 @@
 - Mainly the Hodgkin-Huxley Models of other variations of it.
 - Also did simulations with the models and visualized results. 
 
-- Find more on computational neuroscience models ![here](https://www.forbes5.pitt.edu/article/analysis-computational-neuroscience-models)
+- Find more on computational neuroscience models [here](https://www.forbes5.pitt.edu/article/analysis-computational-neuroscience-models)
